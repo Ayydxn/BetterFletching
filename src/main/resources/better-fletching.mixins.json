@@ -1,9 +1,8 @@
 {
 	"required": true,
-	"package": "com.ayydxn.fabricmodtemplate.mixin",
+	"package": "com.ayydxn.betterfletching.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

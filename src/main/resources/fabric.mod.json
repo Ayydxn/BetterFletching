@@ -8,19 +8,19 @@
 		"${author}"
 	],
 	"contact": {
-		"homepage": "https://github.com/Ayydxn/FabricModTemplate",
-		"sources": "https://github.com/Ayydxn/FabricModTemplate/issues"
+		"homepage": "https://github.com/Ayydxn/BetterFletching",
+		"sources": "https://github.com/Ayydxn/BetterFletching/issues"
 	},
 	"license": "${license}",
-	"icon": "assets/fabric-mod-template/${icon_file}",
+	"icon": "assets/better-fletching/${icon_file}",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.ayydxn.fabricmodtemplate.FabricModTemplate"
+			"com.ayydxn.betterfletching.BetterFletchingMod"
 		]
 	},
 	"mixins": [
-		"fabric-mod-template.mixins.json"
+		"better-fletching.mixins.json"
 	],
 	"depends": {
 		"minecraft": "~${minecraft_version}",
